@@ -8,7 +8,7 @@ source $ZSH/oh-my-zsh.sh
 
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias dev="cd ~/workspaces"
+alias dev="cd ~/workspaces" 
 
 # pnpm
 
