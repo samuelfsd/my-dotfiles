@@ -1,6 +1,6 @@
 ## My dotfiles
 
-Repositório destinado para armazenar meus arquivos úteis para o desenvolvimento dos meus projetos pessoais
+repo for storing useful configuration (dot)files
 
 ## Files
 

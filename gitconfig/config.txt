@@ -4,3 +4,7 @@ defaultBranch = main
 [user]
 email = samuel.estudo778@gmail.com
 name = samuelfsd
+
+[credential]
+helper = [pwd-git-credential-manager]
+useHttpPath = true
