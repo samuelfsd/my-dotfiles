@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "naumovs.color-highlight",
+    "bradlc.vscode-tailwindcss",
+    "shardulm94.trailing-spaces"
+  ]
+}

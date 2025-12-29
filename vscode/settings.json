@@ -5,10 +5,10 @@
     "workbench.startupEditor": "none",
     "workbench.editor.labelFormat": "short",
 
-    // breadcrumbs 
+    // breadcrumbs
     "breadcrumbs.enabled": false,
 
-    // editor 
+    // editor
     "editor.fontFamily": "ZedMono Nerd Font Mono",
     "editor.fontSize": 16,
     "editor.lineHeight": 1.4,
@@ -23,7 +23,7 @@
     "editor.scrollbar.horizontal": "hidden",
     "editor.semanticHighlighting.enabled": false,
 
-    // eslint force config global 
+    // eslint force config global
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "always"
     },
@@ -33,15 +33,15 @@
 
     // explorer
     "explorer.compactFolders": false,
-    "workbench.colorTheme": "Default Light Modern",
+    "workbench.colorTheme": "Vitesse Dark Soft",
 
     // extensions
     "extensions.autoCheckUpdates": true,
 
-    // terminal 
+    // terminal
     "terminal.integrated.fontSize": 18,
 
-    // code spell checker 
+    // code spell checker
     "cSpell.language": "en,pt",
     "cSpell.userWords": [
     "zod",
@@ -61,6 +61,34 @@
     "testid",
     "Macrocategoria",
     "Macrocategorias",
-    "removeable"
-  ]
+    "removeable",
+    "usecases",
+    "tailwindcss",
+    "msal",
+    "Alfredge",
+    "alfredge",
+    "tensorflow",
+    "macrocategoria",
+    "sweetalert",
+    "chartjs",
+    "datalabels",
+    "primeicons",
+    "firefox",
+    "cnpj",
+    "Cnpj",
+    "azure",
+    "azureb2c",
+    "actionbar",
+    "inputmask",
+    "formt",
+    "stepperize",
+    "stompjs",
+    "cmdk",
+    "imask",
+    "vaul",
+    "dismissable",
+    "alphaville"
+  ],
+
+  "git.confirmSync": false
 }

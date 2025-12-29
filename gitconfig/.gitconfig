@@ -1,0 +1,15 @@
+  GNU nano 7.2                       .gitconfig
+[init]
+defaultBranch = main
+
+[user]
+name = samuelfsd
+email = samuel.estudo778@gmail.com
+[credential]
+        helper =
+        helper = /home/samu/.dotnet/tools/git-credential-manager
+        credentialStore = cache
+[credential "https://dev.azure.com"]
+        useHttpPath = true
+[core]
+        autocrlf = input

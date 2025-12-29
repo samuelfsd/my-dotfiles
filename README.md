@@ -4,6 +4,7 @@ repo for storing useful configuration (dot)files
 
 ## Files
 
-- vscode settings
+- vscode
 - zsh
 - git
+
