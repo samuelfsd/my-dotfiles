@@ -87,8 +87,9 @@
     "imask",
     "vaul",
     "dismissable",
-    "alphaville"
+    "alphaville",
+    "zindex"
   ],
 
-  "git.confirmSync": false
+  "git.confirmSync": false,
 }
