@@ -1,7 +1,8 @@
 {
     // workbench
-    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Rider Dark Borderless",
     "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "symbols",
     "workbench.startupEditor": "none",
     "workbench.editor.labelFormat": "short",
 
@@ -23,17 +24,11 @@
     "editor.scrollbar.horizontal": "hidden",
     "editor.semanticHighlighting.enabled": false,
 
-    // eslint force config global
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "always"
-    },
-
     // files
     "files.autoSave": "afterDelay",
 
     // explorer
     "explorer.compactFolders": false,
-    "workbench.colorTheme": "Vitesse Dark Soft",
 
     // extensions
     "extensions.autoCheckUpdates": true,
@@ -88,8 +83,18 @@
     "vaul",
     "dismissable",
     "alphaville",
-    "zindex"
+    "zindex",
+    "Pressable"
   ],
-
-  "git.confirmSync": false
+  "json.schemaDownload.trustedDomains": {
+    "https://schemastore.azurewebsites.net/": true,
+    "https://raw.githubusercontent.com/microsoft/vscode/": true,
+    "https://raw.githubusercontent.com/devcontainers/spec/": true,
+    "https://www.schemastore.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://json-schema.org/": true,
+    "https://developer.microsoft.com/json-schemas/": true,
+    "https://biomejs.dev": true
+  },
+  "python.createEnvironment.trigger": "off",
 }
